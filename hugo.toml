@@ -1,0 +1,17 @@
+baseURL = 'https://e4exp.github.io/'
+languageCode = 'ja-jp'
+title = 'My New Hugo Site'
+theme = 'github-style'
+
+
+[params]
+  author = "e4exp"
+  description = ""
+  github = ""
+  url = ""
+  rss = true
+  lastmod = true
+  favicon = "/images/github-mark.png"
+  avatar = "a"
+  headerIcon = "/images/github-mark-white.png"
+  
