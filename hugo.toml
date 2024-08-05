@@ -12,6 +12,6 @@ theme = 'github-style'
   rss = true
   lastmod = true
   favicon = "/images/github-mark.png"
-  avatar = "a"
+  avatar = "https://avatars.githubusercontent.com/u/44970465?s=400&u=ccaee68b8247f574ff10dfa82ed9702433a382c3&v=4"
   headerIcon = "/images/github-mark-white.png"
   
